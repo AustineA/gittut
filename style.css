@@ -4,3 +4,8 @@
   height: 400px;
   overflow-y: scroll;
 }
+
+body{
+  background: black;
+  color: #e1e1e1;
+}
